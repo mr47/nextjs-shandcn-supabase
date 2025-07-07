@@ -1,5 +1,7 @@
 # Next.js + Supabase + Drizzle ORM + shadcn/ui Demo
 
+![Screenshot](./img.png)
+
 A modern full-stack demo app showcasing:
 
 - **Next.js** (App Router, SSR/CSR, API routes)
